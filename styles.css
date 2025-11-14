@@ -22,7 +22,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #333333;
+  background-color: #abd1ca;
   display: flex;
 }
 
@@ -34,7 +34,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #111111;
+  background-color: #86c1b6;
 }
 
 
